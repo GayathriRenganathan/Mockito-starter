@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Mockito-sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: grengana
+Implementation-Vendor-Id: spring.junit.mockito.test
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Mockito-sample
+Created-By: Maven Integration for Eclipse
+
